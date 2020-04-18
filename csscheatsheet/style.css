@@ -1,0 +1,93 @@
+body {
+       background-image:url("https://www.jjcoopers.com/wp-content/uploads/2017/12/jj-coopers-restaurant-bar-catering-background-wood-4.jpg");
+       background-size: cover; 
+       background-repeat: no-repeat;
+}
+h1 {
+       color:red;
+       font-size: 40px;
+       margin: 0px;
+       text-align: center;
+       font-family: fantasy;
+}
+h2 {
+       color:red;
+       font-size: 30px;
+       margin: 0px;
+       text-align: center;
+       font-family: fantasy;
+}
+
+.Starters{
+       text-align: center;
+       position: relative;
+       left: 10em;
+       z-index: 1;
+       border: dashed;
+       height:20em;
+       margin-bottom: 10em;margin-top: 6em;
+       width: 40%;
+       font-family: fantasy;
+
+
+}
+ul {
+       position: relative;
+
+}
+.Soups{
+       text-align: center;
+       position: relative;
+       left: 10em;
+       z-index: 2;
+       border: dashed;
+       height:20em;
+       margin-bottom: 5em;margin-top: 12em;
+       width: 40%; 
+       font-family: fantasy;
+
+
+}
+ul{
+       position: relative;
+}
+.Entrees{
+       text-align: center;
+       position: relative;
+       left: 50em;
+       z-index: 3;
+       border: dashed;
+       height:20em;
+       margin-bottom: 1em;margin-top: -42em;
+       width: 40%;
+       font-family: fantasy;
+
+}
+ul{
+       position: relative;
+}
+.Desserts{
+       text-align: center;
+       position: relative;
+       left:50em ;
+       z-index: 4;
+       border: dashed;
+       height:20em;
+       margin-bottom: 1em;margin-top: 8em;
+       width: 40%;
+       font-family: fantasy;
+
+}
+ul{
+       position: relative;
+}
+.dashed-box { 
+       text-align: center;
+       position: relative;
+       z-index: 6;
+       border: dashed;
+       height: 4em;
+       margin-bottom: 1em;
+       margin-top: 2em;
+       font-family: fantasy;
+     }
